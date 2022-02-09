@@ -1,0 +1,36 @@
+h1{
+    position: relative;
+    right:150px;
+}
+h4{
+    color:rgb(148, 147, 147);
+    position:relative;
+    right:40px;
+}
+h3{
+    color:rgb(0, 26, 255);
+    position: relative;
+    right: 80px;
+}
+.imag{
+    width: 400px;
+    position: relative;
+    border-radius: 5px;
+    top:25px;
+    height: 200px;
+}
+.cc{
+    background-color: white;
+    width: 400px;
+    height: 200px;
+    border-radius: 7px;
+}
+#root{
+    background-color:rgb(191, 200, 221);
+    width: 550px;
+    height: 500px;
+    position: relative;
+    border-radius: 5px;
+    left:400px;
+   
+}
